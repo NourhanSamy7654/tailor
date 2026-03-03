@@ -5,13 +5,19 @@ The project displays basic information about a tailoring business.
 
 🛠️ Technologies Used
 
-HTML
+HTML5
 
-CSS
+CSS3
+js
+(Add JavaScript if you used it)
 
-🚀 How to Run
+🚀 How to Use
 
-Open index.html in your browser.
+Download or clone the repository
+
+Open the project folder
+
+Run index.html in your browser
 
 👨‍💻 Author
 
